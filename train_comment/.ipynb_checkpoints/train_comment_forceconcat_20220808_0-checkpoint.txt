@@ -1,0 +1,1 @@
+{'model_name': 'forceconcat_20220808_0', 'gpuids': [0], 'add_maestro': False, 'pos_weight': 1, 'pretrain_model': '/data1/projects/BGMcloak/train_output_models/forceconcat_20220804_0.h5', 'lr': 0.001, 'scheduler': <function no_scheduler at 0x7f638fbb1d80>, 'rec_loss_fun': 'center_weighted_bce', 'comment': '验证新损失函数'}
